@@ -104,4 +104,4 @@ Kelas R7Q
 
 ---
 
-**Liana Salon** --- Aplikasi Web Kasir dan Pencatatan Layanan Salon.
+**Liana Salon** --- Aplikasi Kasir dan Pencatatan Layanan Liana Salon.
